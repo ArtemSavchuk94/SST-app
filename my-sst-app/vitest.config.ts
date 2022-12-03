@@ -14,5 +14,5 @@ export default defineConfig({
     alias: {
       "@my-sst-app/core": "./services/core",
     },
-  },
+  }, 
 });
